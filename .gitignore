@@ -1,0 +1,3 @@
+build/
+venv/
+django_couchdb_storage.egg-info/
