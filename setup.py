@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django_couchdb_storage",
-    version="0.0.1",
+    version="0.0.2",
     author="Dominik Seemann",
     author_email="dominik@seemann.rocks",
     description="Django storage backend for CouchDB",
